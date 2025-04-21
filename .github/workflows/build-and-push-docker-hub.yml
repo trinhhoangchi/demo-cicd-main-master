@@ -30,7 +30,7 @@ jobs:
           context: .
           file: ./Dockerfile
           push: true
-          tags: cae87/ci-cd:staging2
+          tags: cae87/ci-cd:staging
 
 
   pull-and-up:
